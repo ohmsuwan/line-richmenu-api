@@ -61,7 +61,7 @@ if __name__ == "__main__":
     from pprint import pprint as pp
 
     # init api
-    access_token = os.environ.get('LINE_ACCESS_TOKEN')
+    access_token = os.environ.get('HGqI6TvyM5QnMOiVIAELDaLxalExzTEelf4P+My89QQymAMFKkfM7Dulf6hLwNsuouhIpnFLgMvYAF7cD8EzgIJdNBPzTqrkK3jcOzo0RYZPUc+Fwk87+qPe6TexdQzC7jzg3G3CLFvoz10FpycpqAdB04t89/1O/w1cDnyilFU=')
     api = LINERichmenuAPI(access_token)
 
     # sample user_id, menu config
